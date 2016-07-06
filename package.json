@@ -1,0 +1,17 @@
+{
+  "name": "thorin-cluster",
+  "author": "Stiudeo",
+  "version": "1.0.1",
+  "dependencies": {},
+  "description": "Thorin.js cluster and worker management",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thorinjs/Thorin-cluster"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Thorinjs/Thorin-cluster/issues"
+  }
+}
